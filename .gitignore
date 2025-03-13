@@ -1,0 +1,15 @@
+# .gitignore
+
+# Environnements virtuels
+env/
+venv/
+
+# Fichiers Python compilés
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+
+# Fichiers de configuration locaux
+.env

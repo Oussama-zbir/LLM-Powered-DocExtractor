@@ -1,0 +1,15 @@
+accelerate
+beautifulsoup4
+bitsandbytes
+huggingface_hub
+langchain
+langchain_community
+nltk
+pdf2image
+pdfplumber
+protobuf
+pytesseract
+requests
+torch
+transformers
+tqdm
